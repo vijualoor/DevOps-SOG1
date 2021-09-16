@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-First File modified from both locations
+First File modified from git hub
