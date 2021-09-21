@@ -1,2 +1,1 @@
-First File modified from GitHub
-First File from bash
+This is the first file by Feature 1
